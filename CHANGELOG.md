@@ -1,3 +1,6 @@
+## 2.0.2
+- Update connectivity_plus package to ^6.0.1
+
 ## 2.0.1
 
 - Extend delimiters for csv loader
